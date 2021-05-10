@@ -1,14 +1,14 @@
 {
   "name": "@apefinance-libs/sdk",
-  "license": "ISC",
-  "version": "1.0.1",
+  "license": "MIT",
+  "version": "1.0.3",
   "description": "🛠 An SDK for building applications on top of ape finance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/mihir-kanzariya/apefinance-sdk.git",
+  "repository": "https://github.com/pantherswap/pantherswap-sdk.git",
   "keywords": [
     "apefinance",
     "ethereum"
